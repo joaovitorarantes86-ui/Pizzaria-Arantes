@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="IMG/pizza.png" alt="Pizzaria Arantes" width="100">
   <h1>Pizzaria Arantes</h1>
   <p><em>Sistema Web Completo para Gestão de Pizzaria</em></p>
   <p>
